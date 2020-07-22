@@ -11,6 +11,6 @@ I'm a Front-end Engineer in [Kroton](http://www.kroton.com.br/) High Education, 
 <!-- Banner -->
 <p align="center">
   <a id="home" target="_blank" href="https://www.instagram.com/p/BsWxosJlvF4/">
-    <img alt="Banner" src="https://instagram.fcgh26-1.fna.fbcdn.net/v/t51.2885-15/e35/47690364_390825595054983_9048601238196180896_n.jpg?_nc_ht=instagram.fcgh26-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=bJCxJVxLIScAX84-TTW&oh=42efc619a556f40fe3871cb75a20cc61&oe=5F359C81" width="60%"/>
+    <img alt="Banner" src="https://instagram.fcgh26-1.fna.fbcdn.net/v/t51.2885-15/e35/47690364_390825595054983_9048601238196180896_n.jpg?_nc_ht=instagram.fcgh26-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=bJCxJVxLIScAX84-TTW&oh=42efc619a556f40fe3871cb75a20cc61&oe=5F359C81" width="50%"/>
   </a>
 </p>
