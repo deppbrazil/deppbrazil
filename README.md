@@ -54,7 +54,7 @@ I'm a Front-end Engineer in [Kroton](http://www.kroton.com.br/) High Education, 
     <img alt="Medium" src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white">
   </a>
   <!-- Spotify -->
-  <a href="spotify:user:223a56evgrwf73mdbejoead7y">
+  <a href="https://open.spotify.com/user/223a56evgrwf73mdbejoead7y">
     <img alt="Spotify" src="https://img.shields.io/badge/-Spotify-black?style=flat-square&logo=Spotify&logoColor=green">
   </a>
   <!-- Soundcloud -->
