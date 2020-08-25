@@ -15,7 +15,7 @@ I'm a Front-end Engineer in [Kroton](http://www.kroton.com.br/) High Education, 
   </a>
 </p>
 
-<!-- My badges -->
+<!-- My first badges -->
 <p align="center">
   <!-- Website -->
   <a href="https://www.deppbrazil.com">
@@ -41,6 +41,10 @@ I'm a Front-end Engineer in [Kroton](http://www.kroton.com.br/) High Education, 
   <a href="https://codepen.io/deppbrazil">
     <img alt="Codepen" src="https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white">
   </a>
+</p>
+
+<!-- My second badges -->
+<p align="center">
   <!-- Pinterest -->
   <a href="https://br.pinterest.com/deppbrazil/">
     <img alt="Pinterest" src="https://img.shields.io/badge/-Pinterest-black?style=flat-square&logo=Pinterest&logoColor=white">
