@@ -51,7 +51,7 @@ I'm a Front-end Engineer in [Kroton](http://www.kroton.com.br/) High Education, 
   </a>
   <!-- Medium -->
   <a href="https://medium.com/@deppbrazil">
-    <img alt="Medium" src="https://img.shields.io/badge/-Medium-white?style=flat-square&logo=Medium&logoColor=black">
+    <img alt="Medium" src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white">
   </a>
   <!-- Spotify -->
   <a href="spotify:user:223a56evgrwf73mdbejoead7y">
