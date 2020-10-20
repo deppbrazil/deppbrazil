@@ -1,6 +1,6 @@
 # Hi, I'm Mir... Welcome!
 
-I'm a Front-end Engineer in [Kroton](http://www.kroton.com.br/) High Education, a company from ecosystem [Cogna](http://www.cogna.com.br/) Venture Capital.
+I'm a Front-end Developer in [Kroton](http://www.kroton.com.br/) High Education, a company from ecosystem [Cogna](http://www.cogna.com.br/) Venture Capital.
 
 **So, what do you did for change the World today?**
 
