@@ -1,6 +1,6 @@
 # Hi, I'm Mir... Welcome!
 
-**So, what do you did for change the World today?**
+**What do you want the most?**
 
 **Well, crew, Yo Ho, Yo Ho,**
 
@@ -8,8 +8,8 @@
 
 <!-- Banner -->
 <div align="center">
-  <a target="_blank" href="https://web.facebook.com/photo?fbid=812705008862376&set=picfp.100003686546577">
-    <img src="https://scontent.fgru11-1.fna.fbcdn.net/v/t1.0-9/13260096_812705008862376_8121178391968017716_n.jpg?_nc_cat=107&ccb=2&_nc_sid=a4a2d7&_nc_eui2=AeGO1shZRs_U1jTXpL9S0s-hBiFclDVpbRoGIVyUNWltGuvpQDbPvZXFenKaZ0CLqadI1hntakiw_j_eAc5wZPns&_nc_ohc=osw1E1ZCq-MAX9qBzti&_nc_ht=scontent.fgru11-1.fna&oh=4f3a23adab28efb847bce0536ebe0101&oe=60431036"/>
+  <a target="_blank" href="https://www.instagram.com/deppbrazil/">
+    <img src="./.github/assets/background.jpg"/>
   <a>
 </div>
 
